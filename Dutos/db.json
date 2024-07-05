@@ -1,0 +1,825 @@
+{
+    "PSL": [
+        {
+            "PSL": "PSL1",
+            "Delivery Condition": "As-rolled, normalized, normalizing formed",
+            "Pipe grade": "A"
+        },
+        {
+            "PSL": "PSL1",
+            "Delivery Condition": "As-rolled, normalizing rolled, thermomechanical rolled, thermo-mechanical formed, normalizing formed, normalized, normalized and tempered or if agreed Q&T SMLS only",
+            "Pipe grade": "B"
+        },
+        {
+            "PSL": "PSL1",
+            "Delivery Condition": "As-rolled, normalizing rolled, thermomechanical rolled, thermo-mechanical formed, normalizing formed, normalized, normalized and tempered",
+            "Pipe grade": "X42, X46, X52, X56, X60, X65, X70"
+        },
+        {
+            "PSL": "PSL2",
+            "Delivery Condition": "As-rolled",
+            "Pipe grade": "BR, X42R"
+        },
+        {
+            "PSL": "PSL2",
+            "Delivery Condition": "Normalizing rolled, normalizing formed, normalized or normalized and tempered",
+            "Pipe grade": "BN, X42N, X46N, X52N, X56N, X60N"
+        },
+        {
+            "PSL": "PSL2",
+            "Delivery Condition": "Quenched and tempered",
+            "Pipe grade": "BQ, X42Q, X46Q, X56Q, X60Q, X65Q, X70Q, X80Q, X90Q, X100Q"
+        },
+        {
+            "PSL": "PSL2",
+            "Delivery Condition": "Thermomechanical rolled or thermomechanical formed",
+            "Pipe grade": "BM, X42M, X46M, X56M, X60M, X65M, X70M, X80M"
+        },
+        {
+            "PSL": "PSL2",
+            "Delivery Condition": "Thermomechanical rolled",
+            "Pipe grade": "X90M, X100M, X120M"
+        },
+        {
+            "PSL": "PSL2",
+            "Delivery Condition": "The suffice (R, N, Q or M) for PSL2 grades, belongs to the steel grade",
+            "Pipe grade": ""
+        }
+    ],
+    "Chemical Composition for PSL 1 pipe with t ≤ 0.984”": {
+        "Seamless Pipe": [
+            {
+                "Grade": "A",
+                "C": "0.22",
+                "Mn": "0.9",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "-",
+                "Nb": "-",
+                "Ti": "-"
+            },
+            {
+                "Grade": "B",
+                "C": "0.28",
+                "Mn": "1.2",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "c,d",
+                "Nb": "c,d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X42",
+                "C": "0.28",
+                "Mn": "1.3",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X46",
+                "C": "0.28",
+                "Mn": "1.4",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X52",
+                "C": "0.28",
+                "Mn": "1.4",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X56",
+                "C": "0.28",
+                "Mn": "1.4",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X60",
+                "C": "0.28 e",
+                "Mn": "1.40 e",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "f",
+                "Nb": "f",
+                "Ti": "f"
+            },
+            {
+                "Grade": "X65",
+                "C": "0.28 e",
+                "Mn": "1.40 e",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "f",
+                "Nb": "f",
+                "Ti": "f"
+            },
+            {
+                "Grade": "X70",
+                "C": "0.28 e",
+                "Mn": "1.40 e",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "f",
+                "Nb": "f",
+                "Ti": "f"
+            }
+        ],
+        "Welded Pipe": [
+            {
+                "Grade": "A",
+                "C": "0.22",
+                "Mn": "0.9",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "-",
+                "Nb": "-",
+                "Ti": "-"
+            },
+            {
+                "Grade": "B",
+                "C": "0.26",
+                "Mn": "1.2",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "c,d",
+                "Nb": "c,d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X42",
+                "C": "0.26",
+                "Mn": "1.3",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X46",
+                "C": "0.26",
+                "Mn": "1.4",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X52",
+                "C": "0.26",
+                "Mn": "1.4",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X56",
+                "C": "0.26",
+                "Mn": "1.4",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "d",
+                "Nb": "d",
+                "Ti": "d"
+            },
+            {
+                "Grade": "X60",
+                "C": "0.26 e",
+                "Mn": "1.40 e",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "f",
+                "Nb": "f",
+                "Ti": "f"
+            },
+            {
+                "Grade": "X65",
+                "C": "0.26 e",
+                "Mn": "1.45 e",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "f",
+                "Nb": "f",
+                "Ti": "f"
+            },
+            {
+                "Grade": "X70",
+                "C": "0.26e",
+                "Mn": "1.65 e",
+                "P": "0.3",
+                "S": "0.3",
+                "V": "f",
+                "Nb": "f",
+                "Ti": "f"
+            }
+        ]
+    },
+    "Chemical Composition for PSL 2 pipe with t ≤ 0.984”": {
+        "Seamless and Welded Pipe": [
+            {
+                "Grade": "Br",
+                "C_max_b": "0.24",
+                "Si_max": "0.4",
+                "Mn_max_b": "1.2",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "c",
+                "Nb_max": "c",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X42R",
+                "C_max_b": "0.24",
+                "Si_max": "0.4",
+                "Mn_max_b": "1.2",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.06",
+                "Nb_max": "c",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "Bn",
+                "C_max_b": "0.24",
+                "Si_max": "0.4",
+                "Mn_max_b": "1.2",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "c",
+                "Nb_max": "c",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X42N",
+                "C_max_b": "0.24",
+                "Si_max": "0.4",
+                "Mn_max_b": "1.2",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.06",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X46N",
+                "C_max_b": "0.24",
+                "Si_max": "0.4",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.07",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "d,e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X52N",
+                "C_max_b": "0.24",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.10",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "d,e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X56N",
+                "C_max_b": "0.24",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.10f",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "d,e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X60N",
+                "C_max_b": "0.24f",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.10f",
+                "Nb_max": "0.05f",
+                "Ti_max": "0.04f",
+                "Other": "g,h,l",
+                "CEIIW_max": "as agreed",
+                "CEPcm_max": "as agreed"
+            },
+            {
+                "Grade": "BQ",
+                "C_max_b": "0.18",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.05",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X42Q",
+                "C_max_b": "0.18",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.05",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X46Q",
+                "C_max_b": "0.18",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.05",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X52Q",
+                "C_max_b": "0.18",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.5",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.05",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X56Q",
+                "C_max_b": "0.18",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.5",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.07",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X60Q",
+                "C_max_b": "0.18f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.70f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "h,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X65Q",
+                "C_max_b": "0.18f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.70f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "h,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X70Q",
+                "C_max_b": "0.18f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.80f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "h,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X80Q",
+                "C_max_b": "0.18f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.90f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "i,j",
+                "CEIIW_max": "As agreed",
+                "CEPcm_max": "As agreed"
+            },
+            {
+                "Grade": "X90Q",
+                "C_max_b": "0.16f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.9",
+                "P_max": "0.02",
+                "S_max": "0.01",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "j,k",
+                "CEIIW_max": "As agreed",
+                "CEPcm_max": "As agreed"
+            },
+            {
+                "Grade": "X100Q",
+                "C_max_b": "0.16f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.9",
+                "P_max": "0.02",
+                "S_max": "0.01",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "j,k",
+                "CEIIW_max": "As agreed",
+                "CEPcm_max": "As agreed"
+            }
+        ],
+        "Welded Pipe": [
+            {
+                "Grade": "BM",
+                "C_max_b": "0.22",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.2",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.05",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X42M",
+                "C_max_b": "0.22",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.3",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.05",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X46M",
+                "C_max_b": "0.22",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.3",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "0.05",
+                "Nb_max": "0.05",
+                "Ti_max": "0.04",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X52M",
+                "C_max_b": "0.22",
+                "Si_max": "0.45",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "d",
+                "Nb_max": "d",
+                "Ti_max": "d",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X56M",
+                "C_max_b": "0.22",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.4",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "d",
+                "Nb_max": "d",
+                "Ti_max": "d",
+                "Other": "e,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X60M",
+                "C_max_b": "0.12f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.60f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "h,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X65M",
+                "C_max_b": "0.12f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.60f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "h,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X70M",
+                "C_max_b": "0.12f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.70f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "h,l",
+                "CEIIW_max": "0.43",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X80M",
+                "C_max_b": "0.12f",
+                "Si_max": "0.45f",
+                "Mn_max_b": "1.85f",
+                "P_max": "0.025",
+                "S_max": "0.015",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "i,j",
+                "CEIIW_max": ".043f",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X90M",
+                "C_max_b": "0.1",
+                "Si_max": "0.55f",
+                "Mn_max_b": "2.10f",
+                "P_max": "0.02",
+                "S_max": "0.01",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "i,j",
+                "CEIIW_max": "–",
+                "CEPcm_max": "0.25"
+            },
+            {
+                "Grade": "X100M",
+                "C_max_b": "0.1",
+                "Si_max": "0.55f",
+                "Mn_max_b": "2.10f",
+                "P_max": "0.02",
+                "S_max": "0.01",
+                "V_max": "g",
+                "Nb_max": "g",
+                "Ti_max": "g",
+                "Other": "i,j",
+                "CEIIW_max": "–",
+                "CEPcm_max": "0.25"
+            }
+        ]
+    },
+    "Mechanical properties": {
+        "Tensile Properties – Pipe Body of SMLS and Welded Pipes PSL 1": {
+            "Pipe Grades": {
+                "A": {
+                    "Yield Strength PSI Min": "30,500",
+                    "Tensile Strength PSI Min": "48,600",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "48,600"
+                },
+                "B": {
+                    "Yield Strength PSI Min": "35,500",
+                    "Tensile Strength PSI Min": "60,200",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "60,200"
+                },
+                "X42": {
+                    "Yield Strength PSI Min": "42,100",
+                    "Tensile Strength PSI Min": "60,200",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "60,200"
+                },
+                "X46": {
+                    "Yield Strength PSI Min": "46,400",
+                    "Tensile Strength PSI Min": "63,100",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "63,100"
+                },
+                "X52": {
+                    "Yield Strength PSI Min": "52,200",
+                    "Tensile Strength PSI Min": "66,700",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "66,700"
+                },
+                "X56": {
+                    "Yield Strength PSI Min": "56,600",
+                    "Tensile Strength PSI Min": "71,100",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "71,100"
+                },
+                "X60": {
+                    "Yield Strength PSI Min": "60,200",
+                    "Tensile Strength PSI Min": "75,400",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "75,400"
+                },
+                "X65": {
+                    "Yield Strength PSI Min": "65,300",
+                    "Tensile Strength PSI Min": "77,500",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "77,500"
+                },
+                "X70": {
+                    "Yield Strength PSI Min": "70,300",
+                    "Tensile Strength PSI Min": "82,700",
+                    "Elongation": "c",
+                    "Seam of Welded Pipe Tensile Strength PSI Min": "82,700"
+                }
+            },
+            "Notes": [
+                "a. For intermediate grade, the difference between the specified minimum tensile strength and the specified minimum yield for the pipe body shall be as given for the next higher grade.",
+                "b. For the intermediate grades, the specified minimum tensile strength for the weld seam shall be the same as determined for the body using foot note a.",
+                "c. The specified minimum elongation, Af, expressed in percent and rounded to the nearest percent, shall be determined using the following equation: PASSAR EQUAÇÃO",
+                "Where C is 1 940 for calculation using Si units and 625 000 for calculation using USC units",
+                "Axc   is the applicable tensile test piece cross-sectional area, expressed in square millimeters (square inches) , as follows",
+                "– For circular cross-section test pieces, 130mm2 (0.20 in2) for 12.7 mm (0.500 in) and 8.9 mm (.350 in) diameter test pieces; and 65 mm2 (0.10 in2) for 6.4 mm (0.250in) diameter test pieces.",
+                "– For full-section test pieces, the lesser of a) 485 mm2 (0.75 in2) and b) the cross-sectional area of the test piece, derived using the specified outside diameter and the specified wall thickness of the pipe, rounded to the nearest 10 mm2 (0.10in2)",
+                "– For strip test pieces, the lesser of a) 485 mm2 (0.75 in2) and b) the cross-sectional area of the test piece, derived using the specified width of the test piece and the specified wall thickness of the pipe, rounded to the nearest 10 mm2 (0.10in2)",
+                "U is the specified minimum tensile strength, expressed in megapascals (pounds per square inch)"
+            ]
+        },
+        "Tensile Properties – Pipe Body of SMLS and Welded Pipes PSL 2": {
+            "BR, BN,BQ,BM": {
+                "Yield Strength PSI Min": "35,500",
+                "Yield Strength PSI Max": "65,300",
+                "Tensile Strength PSI Min": "60,200",
+                "Tensile Strength PSI Max": "95,000",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "60,200"
+            },
+            "X42,X42R,X2Q,X42M": {
+                "Yield Strength PSI Min": "42,100",
+                "Yield Strength PSI Max": "71,800",
+                "Tensile Strength PSI Min": "60,200",
+                "Tensile Strength PSI Max": "95,000",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "60,200"
+            },
+            "X46N,X46Q,X46M": {
+                "Yield Strength PSI Min": "46,400",
+                "Yield Strength PSI Max": "76,100",
+                "Tensile Strength PSI Min": "63,100",
+                "Tensile Strength PSI Max": "95,000",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "63,100"
+            },
+            "X52N,X52Q,X52M": {
+                "Yield Strength PSI Min": "52,200",
+                "Yield Strength PSI Max": "76,900",
+                "Tensile Strength PSI Min": "66,700",
+                "Tensile Strength PSI Max": "110,200",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "66,700"
+            },
+            "X56N,X56Q,X56M": {
+                "Yield Strength PSI Min": "56,600",
+                "Yield Strength PSI Max": "79,000",
+                "Tensile Strength PSI Min": "71,100",
+                "Tensile Strength PSI Max": "110,200",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "71,100"
+            },
+            "X60N,X60Q,S60M": {
+                "Yield Strength PSI Min": "60,200",
+                "Yield Strength PSI Max": "81,900",
+                "Tensile Strength PSI Min": "75,400",
+                "Tensile Strength PSI Max": "110,200",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "75,400"
+            },
+            "X65Q,X65M": {
+                "Yield Strength PSI Min": "65,300",
+                "Yield Strength PSI Max": "87,000",
+                "Tensile Strength PSI Min": "77,600",
+                "Tensile Strength PSI Max": "110,200",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "76,600"
+            },
+            "X70Q,X65M": {
+                "Yield Strength PSI Min": "70,300",
+                "Yield Strength PSI Max": "92,100",
+                "Tensile Strength PSI Min": "82,700",
+                "Tensile Strength PSI Max": "110,200",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "82,700"
+            },
+            "X80Q,X80M": {
+                "Yield Strength PSI Min": "80,500",
+                "Yield Strength PSI Max": "102,300",
+                "Tensile Strength PSI Min": "90,600",
+                "Tensile Strength PSI Max": "119,700",
+                "Ratio a,c Maximum": "0.93",
+                "Elongation Af % Minimum": "f",
+                "Seam of Welded Pipe Tensile Strength d Rm (psi)": "90,600"
+            }
+        },
+        "Notes":[
+            "For intermediate grade, refer to the full API5L specification.",
+            "for grades > X90 refer to the full API5L specification.",
+            "This limit applies for pies with D> 12.750 in",
+            "For intermediate grades, the specified minimum tensile strength for the weld seam shall be the same value as was determined for the pipe body using foot a.",
+            "for pipe requiring longitudinal testing, the maximum yield strength shall be ≤ 71,800 psi",
+            "The specified minimum elongation, Af, expressed in percent and rounded to the nearest percent, shall be determined using the following equation: Where C is 1 940 for calculation using Si units and 625 000 for calculation using USC units Axc is the applicable tensile test piece cross-sectional area, expressed in square millimeters (square inches) , as follows – For circular cross-section test pieces, 130mm2 (0.20 in2) for 12.7 mm (0.500 in) and 8.9 mm (.350 in) diameter test pieces; and 65 mm2 (0.10 in2) for 6.4 mm (0.250in) diameter test pieces. –  For full-section test pieces, the lesser of a) 485 mm2 (0.75 in2) and b) the cross-sectional area of the test piece, derived using the specified outside diameter and the specified wall thickness of the pipe, rounded to the nearest 10 mm2 (0.10in2) –  For strip test pieces, the lesser of a) 485 mm2 (0.75 in2) and b) the cross-sectional area of the test piece, derived using the specified width of the test piece and the specified wall thickness of the pipe, rounded to the nearest 10 mm2 (0.10in2) U is the specified minimum tensile strength, expressed in megapascals (pounds per square inch",
+            "Lower values fo R10,5IRm may be specified by agreement",
+            "for grades > x90 refer to the full API5L specification."
+        ]
+    }
+}
